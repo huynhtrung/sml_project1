@@ -19,6 +19,7 @@ Simulink.fileGenControl('set', 'CacheFolder', myCacheFolder, ...
    'CodeGenFolder', myCacheFolder);
 
 % Change working folder to the "work" folder:
+% Change working folder to the "work" folder:d?dadadsad
 cd(myCacheFolder);
 end
 
